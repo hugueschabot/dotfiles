@@ -9,3 +9,7 @@ Main dotfiles castle for [homeshick](https://github.com/andsens/homeshick)
 [Install homeshick](https://github.com/andsens/homeshick/wiki/Installation) and clone this repository.
 
     homeshick clone hugueschabot/dotfiles
+
+### [Liquidprompt](https://github.com/nojhan/liquidprompt)
+
+    homeshick clone nojhan/liquidprompt
