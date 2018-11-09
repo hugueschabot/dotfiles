@@ -10,6 +10,12 @@ Main dotfiles castle for [homeshick](https://github.com/andsens/homeshick)
 
     homeshick clone hugueschabot/dotfiles
 
-### [Liquidprompt](https://github.com/nojhan/liquidprompt)
+### bash-completion
+
+Install [bash-completion](https://github.com/scop/bash-completion).
+
+### Liquid Prompt
+
+Install [Liquid Prompt](https://github.com/nojhan/liquidprompt) or clone the repository.
 
     homeshick clone nojhan/liquidprompt
