@@ -22,6 +22,4 @@ Install [Liquid Prompt](https://github.com/nojhan/liquidprompt) or clone the rep
 
 ### fzf
 
-Install [fzf](https://github.com/junegunn/fzf) or clone the repository.
-
-    homeshick clone junegunn/fzf
+Install [fzf](https://github.com/junegunn/fzf).
