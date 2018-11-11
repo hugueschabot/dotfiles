@@ -19,3 +19,9 @@ Install [bash-completion](https://github.com/scop/bash-completion).
 Install [Liquid Prompt](https://github.com/nojhan/liquidprompt) or clone the repository.
 
     homeshick clone nojhan/liquidprompt
+
+### fzf
+
+Install [fzf](https://github.com/junegunn/fzf) or clone the repository.
+
+    homeshick clone junegunn/fzf
